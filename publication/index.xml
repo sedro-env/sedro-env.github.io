@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | SEDRo</title>
+    <link>https://anur0n.github.io/publication/</link>
+      <atom:link href="https://anur0n.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anur0n.github.io/images/logo_hu6ea3e39d9e54ace09942537133240714_469934_300x300_fit_lanczos_2.png</url>
+      <title>Publications</title>
+      <link>https://anur0n.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Modeling Social Interaction for Baby in Simulated Environment for Developmental Robotics</title>
+      <link>https://anur0n.github.io/publication/nips_babyminds/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://anur0n.github.io/publication/nips_babyminds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Open-World Simulated Environment for Developmental Robotics</title>
+      <link>https://anur0n.github.io/publication/icml_laow/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://anur0n.github.io/publication/icml_laow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEDRo: A Simulated Environment for Developmental Robotics</title>
+      <link>https://anur0n.github.io/publication/icdl_2020/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://anur0n.github.io/publication/icdl_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
